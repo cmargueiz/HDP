@@ -1,0 +1,10 @@
+Solution for Minimal Spanning Tree Problem Reforestacion de zona
+
+06-03-2020	From Node	Connect To	Distance/Cost	 	From Node	Connect To	Distance/Cost
+1	Zoma 3	Zona 2	9	5	Zona 7	Zona 6	6
+2	Zona 8	Zoma 3	10	6	Zona 8	Zona 7	5
+3	Zona 5	Zona 4	7	7	Zona 5	Zona 8	8
+4	Zona 1	Zona 5	7				
+							
+	Total	Minimal	Connected	Distance	or Cost	=	52
+

@@ -1,0 +1,18 @@
+NET	Petroleo:Refineria hacia Almacenamiento	MFP	Minimization	Matrix	Asymmetry
+7	0	0
+From \ To	R	1	2	3	4	5	A
+R	 	8	3	9	 	 	
+1	 	 	1	 	 	4	
+2	 	 	 	2	4	1	
+3	 	 	 	 	10	 	
+4	 	 	 	 	 	1	6
+5	 	 	 	 	 	 	12
+A	 	 	 	 	 	 	
+-1
+1	1	1
+2	1	2
+3	2	2
+4	3	2
+5	1	3
+6	2	3
+7	1	7

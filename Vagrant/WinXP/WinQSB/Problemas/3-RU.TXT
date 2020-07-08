@@ -1,0 +1,14 @@
+Solution for Shortest Path Problem pavimentr para pozos ruta mas corta
+
+06-03-2020	From	To	Distance/Cost	Cumulative Distance/Cost
+1	M	3	10	10
+2	3	7	8	18
+				
+	From M	To 7	=	18
+	From M	To 1	=	5
+	From M	To 2	=	9
+	From M	To 3	=	10
+	From M	To 4	=	16
+	From M	To 5	=	13
+	From M	To 6	=	4
+

@@ -1,0 +1,9 @@
+---
+
+ - hosts: all
+   become: true
+   tasks:
+     - name: imprimir hola
+       shell: 'echo Holamundo'
+     - name: instalar apache
+       apt: name=apache2 state=present

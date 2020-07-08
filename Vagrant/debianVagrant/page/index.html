@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hola Mundo by Vagrant</title>
+    </head>
+<body>
+    <button id="mostrar" onclick="escr()" >Mostrar Mensaje</button>
+    <button id="borrar" onclick="borrar()" >Borrar Mensaje</button>
+    <div id="lienzo"></div>
+</body>
+<script>
+var lienzo=document.getElementById("lienzo");
+    function escr(){
+        lienzo.innerHTML=("Hola, esta es la Práctica número 8 de Herramientas de Productividad 2020");
+    }
+
+    function borrar(){
+        lienzo.innerHTML=("");
+    }
+</script>
+</html>

@@ -1,0 +1,12 @@
+Solution for Minimal Spanning Tree Problem Red: Arbol de Expacion Minima
+
+06-03-2020	From Node	Connect To	Distance/Cost	 	From Node	Connect To	Distance/Cost
+1	1	2	5	7	8	9	0
+2	3	6	4	8	6	9	5
+3	4	5	3	9	10	11	2
+4	2	5	1	10	8	11	1
+5	5	6	3	11	11	12	4
+6	7	8	2				
+							
+	Total	Minimal	Connected	Distance	or Cost	=	30
+

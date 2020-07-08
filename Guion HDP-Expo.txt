@@ -1,0 +1,61 @@
+	*Ventajas y desventajas al utilizar un framework
+
+Como todo elemento de software tiene que ser analizado cuales son las ventajas y desventajas al momento de implementar el uso de alguno
+
+
+	*Ventajas:
+
+-Implentacion de patrones de diseno
+
+Los patrones de diseño son unas técnicas para resolver problemas comunes en el desarrollo de software y otros ámbitos referentes al diseño de interacción o interfaces.
+
+
+-Seguridad
+
+El uso de un framework supone que nuestras aplicaciones seran estables y seguras de modo que tendran minima cantidad de busgs o errores en su compilacion y en su implementacion
+
+
+-Reutilizacion de funciones.
+
+Esta es una de la principales ventajas que se busca al usar un frameworka ya que gracias a el se evita la redundacia de codigo haciendo aplicaciones mas optimas y disminuyendo considerablemente el tiempo de su diseno y desarrollo
+
+	
+	*Desventajas
+
+-Puede llevar menor rendimiento
+
+Cuando se importa uno o mas frameworks al momento de desarrollar, si no se tiene cuidado la aplicacion ocupara demasiado espacio en el disco de la maquina, debido que al ser compilada los paquetes o librerias de los frameworks muchas veces se incluyen en los binarios de la aplicacion por tanto la aplicacion necesitara mas recursos del equipo al ser instalada y desplegada
+
+-Actualizacion de nuevas versiones
+
+Al momento de usar un framework, lo que se implementa es una de las distintas versiones y se trabaja sobre ella, no obstante, los frameworks esta en continua actualizacion, entonces muchas veces no es conveniente mudarse a otro framework u otra version mas reciente, debido a que puede existir incompatiblidad, como puede ser funciones o librerias obsoletas en versiones reciente. Por tanto, es de analizar con detenimiento la actualizacion o mudanza de estas tecnologias
+
+
+	*Tipos de frameworks
+
+*Segun su alcance:
+
+-Verticales. Estos permiten la realización de sólo una tarea. El ejemplo más conocido de estos es Hibernate.
+
+-Horizontales. Estos permiten la realización de una aplicación de manera completa tanto frontend y backend. Pero requiere la obligación de adecuar nuestro 	trabajo a ellos, son este tipo los más conocidos y uno de sus representantes más conocido es Spring.
+
+Spring tiene un amplia gama de tecnologias que se pueden implementar gracias a este framework
+
+
+*Segun sus aplicaciones
+
+-Aplicaciones web: son un ejemplo de aplicaciones web la banca electronica, tiendas en linea, estos sistemas empresariales que comunmente utilizan algun framework que le permita la escalabilidad de sus entorno
+
+-Gestor de contenido: Se puede decir que muchas de estas tambien son aplicaciones web, sin embargo, estos son sistemas prefabricados de modo que un usuario normal puede adaptarlo a su entorno de negocio, el fin de estos frameworks es mayormente comercial
+
+-Aplicaciones multiplataforma: estos se utilizan mas para aplicaciones locales segun sea el sistema operativo, asi tambien se encuentra frameworks, por ejemplo, .NET Framework de la compania de Microsoft
+
+	
+
+	*Frameworks mas utilizados
+
+Estos algunos ejemplos de los frameworks mas famosos.
+
+Cabe destacar la creacion de estos frameworks surgio del apogeo que estos lenguaje han tenido, refieriendome a PHP, el cual es un lenguaje orientado a la web, vemos que por la cantidad de frameworks, por mencionarles LARAVEL, CAKEPHP, SYMFONY, entre otros. Como tambien Javascript, el cual se ha posicionado actualmente como un lenguaje y he ahi como VUE.js, Angular.js como otros  han tendido a ser muy famosos ya que facilitan el desarrollo web.
+
+POR MI PARTE ESTO HA SIDO TODO POR HOY...POR SU ATENCION, MUCHAS GRACIAS!!!

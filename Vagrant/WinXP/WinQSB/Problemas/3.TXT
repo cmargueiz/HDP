@@ -1,0 +1,10 @@
+Solution for Minimal Spanning Tree Problem Pavimentacion hacia pozos
+
+06-03-2020	From Node	Connect To	Distance/Cost	 	From Node	Connect To	Distance/Cost
+1	M	1	5	5	3	5	6
+2	3	2	7	6	M	6	4
+3	6	3	5	7	5	7	5
+4	2	4	7				
+							
+	Total	Minimal	Connected	Distance	or Cost	=	39
+

@@ -1,0 +1,21 @@
+Solution for Shortest Path Problem Red: Ruta Mas Corta
+
+06-03-2020	From	To	Distance/Cost	Cumulative Distance/Cost
+1	1	2	5	5
+2	2	5	1	6
+3	5	8	7	13
+4	8	11	1	14
+5	11	12	4	18
+				
+	From 1	To 12	=	18
+	From 1	To 2	=	5
+	From 1	To 3	=	12
+	From 1	To 4	=	10
+	From 1	To 5	=	6
+	From 1	To 6	=	9
+	From 1	To 7	=	21
+	From 1	To 8	=	13
+	From 1	To 9	=	13
+	From 1	To 10	=	30
+	From 1	To 11	=	14
+

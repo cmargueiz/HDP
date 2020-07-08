@@ -1,0 +1,7 @@
+Log created: 2020-07-03T06:43:06.746045000Z
+Process ID:  8078 (0x1f8e)
+Parent PID:  2123 (0x84b)
+Executable:  /usr/lib/virtualbox/VBoxSVC
+Arg[0]: /usr/lib/virtualbox/VBoxSVC
+Arg[1]: --auto-shutdown
+AddRef: illegal refcnt=3221225469 state=2
